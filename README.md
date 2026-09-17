@@ -1,4 +1,4 @@
-# CSE-1106---Intro-Project
+# CSE-1106-Intro-Project
 
 Repository of all coding projects ever made for different classes or for fun, intended to act as a portfolio for future reference in a more professional capacity.
 
